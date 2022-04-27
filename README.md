@@ -17,7 +17,7 @@ ___
      * CoroutineEnv：线程的协程环境类
      * Coroutine：协程类    
   
-详见：[协程库](/netLibZ/netLibZ/record/协程库.md)
+详见：[协程库](https://github.com/AndGateZ/NetLibZ/blob/main/netLibZ/record/%E5%8D%8F%E7%A8%8B%E5%BA%93.md)
 <br/>
 <br/>
 
